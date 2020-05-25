@@ -99,6 +99,9 @@ def changing_alan
         :languages => ["C"]
       }
     }
+    
+    alan_kay
+    
 
 programmer_hash[:alan_kay][:known_for]
 
