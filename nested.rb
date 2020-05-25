@@ -37,7 +37,7 @@ def alan_kay_is_known_for
       }
     }
 
-programmer_hash[:alan_kay][:known_for]  == alans_new_info
+programmer_hash[:alan_kay][:known_for]  = alans_new_info
 end
 
 def dennis_ritchies_language
