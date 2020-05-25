@@ -89,6 +89,7 @@ programmer_hash
 end
 
 def changing_alan
+  alans_new_info = "GUI"
 
 	programmer_hash = 
  		{
